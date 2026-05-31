@@ -1,1 +1,7 @@
 Login feature work in progress.
+Login Feature:
+1. User enters username
+2. User enters password
+3. System checks credentials
+4. If correct → login success
+5. If wrong → show error message
