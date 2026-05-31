@@ -1,3 +1,4 @@
 Hi, I am learning GitHub.
 My goal is to understand coding and build projects step by step.
 This is my first repository where I am practicing commits and files. 
+I am still learning git.
